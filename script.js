@@ -14,7 +14,7 @@ let team1={
 };
 
 Let cap1 = Object.assign({},person);
-console.log()
+
 window.players = players;
 window.person = person;
 window.team = team;
